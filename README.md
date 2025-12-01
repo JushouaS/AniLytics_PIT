@@ -1,4 +1,4 @@
-# Welcome to your Rork app
+# Welcome to AniLytics
 
 ## Project info
 
