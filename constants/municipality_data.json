@@ -1,0 +1,2836 @@
+[
+  {
+    "municipalityId": "abucay",
+    "averageYield": 0.26,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.36
+      },
+      {
+        "year": 2011,
+        "yield": 0.09
+      },
+      {
+        "year": 2012,
+        "yield": 0.17
+      },
+      {
+        "year": 2013,
+        "yield": 0.14
+      },
+      {
+        "year": 2014,
+        "yield": 0.3
+      },
+      {
+        "year": 2015,
+        "yield": 0.14
+      },
+      {
+        "year": 2016,
+        "yield": 0.03
+      },
+      {
+        "year": 2017,
+        "yield": 0.56
+      },
+      {
+        "year": 2018,
+        "yield": 0.6
+      },
+      {
+        "year": 2019,
+        "yield": 0.41
+      },
+      {
+        "year": 2020,
+        "yield": 0.04
+      }
+    ]
+  },
+  {
+    "municipalityId": "alabat",
+    "averageYield": 0.32,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.29
+      },
+      {
+        "year": 2011,
+        "yield": 0.9
+      },
+      {
+        "year": 2012,
+        "yield": 0.15
+      },
+      {
+        "year": 2013,
+        "yield": 0.84
+      },
+      {
+        "year": 2014,
+        "yield": 0.46
+      },
+      {
+        "year": 2015,
+        "yield": 0.18
+      },
+      {
+        "year": 2016,
+        "yield": 0.12
+      },
+      {
+        "year": 2017,
+        "yield": 0.11
+      },
+      {
+        "year": 2018,
+        "yield": 0.58
+      },
+      {
+        "year": 2019,
+        "yield": 0.07
+      },
+      {
+        "year": 2020,
+        "yield": -0.17
+      }
+    ]
+  },
+  {
+    "municipalityId": "ambulong",
+    "averageYield": 0.39,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.61
+      },
+      {
+        "year": 2011,
+        "yield": 0.77
+      },
+      {
+        "year": 2012,
+        "yield": 0.54
+      },
+      {
+        "year": 2013,
+        "yield": 0.2
+      },
+      {
+        "year": 2014,
+        "yield": 0.37
+      },
+      {
+        "year": 2015,
+        "yield": 0.17
+      },
+      {
+        "year": 2016,
+        "yield": 0.22
+      },
+      {
+        "year": 2017,
+        "yield": 0.48
+      },
+      {
+        "year": 2018,
+        "yield": 0.48
+      },
+      {
+        "year": 2019,
+        "yield": 0.06
+      },
+      {
+        "year": 2020,
+        "yield": 0.41
+      }
+    ]
+  },
+  {
+    "municipalityId": "aparri",
+    "averageYield": 0.44,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 1.05
+      },
+      {
+        "year": 2011,
+        "yield": 0.24
+      },
+      {
+        "year": 2012,
+        "yield": 0.08
+      },
+      {
+        "year": 2013,
+        "yield": 0.37
+      },
+      {
+        "year": 2014,
+        "yield": 0.22
+      },
+      {
+        "year": 2015,
+        "yield": 1.19
+      },
+      {
+        "year": 2016,
+        "yield": 0.15
+      },
+      {
+        "year": 2017,
+        "yield": 0.22
+      },
+      {
+        "year": 2018,
+        "yield": 0.23
+      },
+      {
+        "year": 2019,
+        "yield": 0.62
+      },
+      {
+        "year": 2020,
+        "yield": 0.44
+      }
+    ]
+  },
+  {
+    "municipalityId": "baguio",
+    "averageYield": 0.56,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.88
+      },
+      {
+        "year": 2011,
+        "yield": 0.69
+      },
+      {
+        "year": 2012,
+        "yield": 0.21
+      },
+      {
+        "year": 2013,
+        "yield": 0.75
+      },
+      {
+        "year": 2014,
+        "yield": 0.81
+      },
+      {
+        "year": 2015,
+        "yield": 0.35
+      },
+      {
+        "year": 2016,
+        "yield": 0.12
+      },
+      {
+        "year": 2017,
+        "yield": 0.09
+      },
+      {
+        "year": 2018,
+        "yield": 0.55
+      },
+      {
+        "year": 2019,
+        "yield": 0.78
+      },
+      {
+        "year": 2020,
+        "yield": 0.97
+      }
+    ]
+  },
+  {
+    "municipalityId": "baler_radar",
+    "averageYield": 0.49,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.74
+      },
+      {
+        "year": 2011,
+        "yield": 0.59
+      },
+      {
+        "year": 2012,
+        "yield": 0.32
+      },
+      {
+        "year": 2013,
+        "yield": 0.18
+      },
+      {
+        "year": 2014,
+        "yield": 0.97
+      },
+      {
+        "year": 2015,
+        "yield": 1.08
+      },
+      {
+        "year": 2016,
+        "yield": 0.57
+      },
+      {
+        "year": 2017,
+        "yield": 0.2
+      },
+      {
+        "year": 2018,
+        "yield": 0.45
+      },
+      {
+        "year": 2019,
+        "yield": -0.14
+      },
+      {
+        "year": 2020,
+        "yield": 0.47
+      }
+    ]
+  },
+  {
+    "municipalityId": "basco_radar",
+    "averageYield": 0.31,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.03
+      },
+      {
+        "year": 2011,
+        "yield": 0.14
+      },
+      {
+        "year": 2012,
+        "yield": 0.75
+      },
+      {
+        "year": 2013,
+        "yield": -0.2
+      },
+      {
+        "year": 2014,
+        "yield": 0.67
+      },
+      {
+        "year": 2015,
+        "yield": 0.37
+      },
+      {
+        "year": 2016,
+        "yield": 0.39
+      },
+      {
+        "year": 2017,
+        "yield": 0.27
+      },
+      {
+        "year": 2018,
+        "yield": 0.4
+      },
+      {
+        "year": 2019,
+        "yield": 0.46
+      },
+      {
+        "year": 2020,
+        "yield": 0.18
+      }
+    ]
+  },
+  {
+    "municipalityId": "borongan",
+    "averageYield": 0.48,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.07
+      },
+      {
+        "year": 2011,
+        "yield": 1.35
+      },
+      {
+        "year": 2012,
+        "yield": 0.05
+      },
+      {
+        "year": 2013,
+        "yield": 0.42
+      },
+      {
+        "year": 2014,
+        "yield": 0.32
+      },
+      {
+        "year": 2015,
+        "yield": 0.78
+      },
+      {
+        "year": 2016,
+        "yield": -0.33
+      },
+      {
+        "year": 2017,
+        "yield": 0.6
+      },
+      {
+        "year": 2018,
+        "yield": 0.34
+      },
+      {
+        "year": 2019,
+        "yield": 0.79
+      },
+      {
+        "year": 2020,
+        "yield": 0.87
+      }
+    ]
+  },
+  {
+    "municipalityId": "butuan",
+    "averageYield": 0.48,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.22
+      },
+      {
+        "year": 2011,
+        "yield": 0.81
+      },
+      {
+        "year": 2012,
+        "yield": 0.5
+      },
+      {
+        "year": 2013,
+        "yield": -0.14
+      },
+      {
+        "year": 2014,
+        "yield": 0.22
+      },
+      {
+        "year": 2015,
+        "yield": 0.5
+      },
+      {
+        "year": 2016,
+        "yield": 0.7
+      },
+      {
+        "year": 2017,
+        "yield": 0.76
+      },
+      {
+        "year": 2018,
+        "yield": 0.97
+      },
+      {
+        "year": 2019,
+        "yield": 0.25
+      },
+      {
+        "year": 2020,
+        "yield": 0.5
+      }
+    ]
+  },
+  {
+    "municipalityId": "clsu",
+    "averageYield": 0.45,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.59
+      },
+      {
+        "year": 2011,
+        "yield": 0.32
+      },
+      {
+        "year": 2012,
+        "yield": 0.42
+      },
+      {
+        "year": 2013,
+        "yield": 0.53
+      },
+      {
+        "year": 2014,
+        "yield": 0.26
+      },
+      {
+        "year": 2015,
+        "yield": 0.7
+      },
+      {
+        "year": 2016,
+        "yield": 0.43
+      },
+      {
+        "year": 2017,
+        "yield": 0.35
+      },
+      {
+        "year": 2018,
+        "yield": 0.31
+      },
+      {
+        "year": 2019,
+        "yield": 0.58
+      },
+      {
+        "year": 2020,
+        "yield": 0.51
+      }
+    ]
+  },
+  {
+    "municipalityId": "cabanatuan",
+    "averageYield": 0.47,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.95
+      },
+      {
+        "year": 2011,
+        "yield": 0.42
+      },
+      {
+        "year": 2012,
+        "yield": 0.3
+      },
+      {
+        "year": 2013,
+        "yield": 0.68
+      },
+      {
+        "year": 2014,
+        "yield": 0.36
+      },
+      {
+        "year": 2015,
+        "yield": 0.33
+      },
+      {
+        "year": 2016,
+        "yield": 0.7
+      },
+      {
+        "year": 2017,
+        "yield": 0.37
+      },
+      {
+        "year": 2018,
+        "yield": -0.13
+      },
+      {
+        "year": 2019,
+        "yield": 0.73
+      },
+      {
+        "year": 2020,
+        "yield": 0.5
+      }
+    ]
+  },
+  {
+    "municipalityId": "calapan",
+    "averageYield": 0.23,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.71
+      },
+      {
+        "year": 2011,
+        "yield": 0.35
+      },
+      {
+        "year": 2012,
+        "yield": -0.22
+      },
+      {
+        "year": 2013,
+        "yield": 0.32
+      },
+      {
+        "year": 2014,
+        "yield": -0.54
+      },
+      {
+        "year": 2015,
+        "yield": 0.62
+      },
+      {
+        "year": 2016,
+        "yield": 0.46
+      },
+      {
+        "year": 2017,
+        "yield": 0.25
+      },
+      {
+        "year": 2018,
+        "yield": 0.41
+      },
+      {
+        "year": 2019,
+        "yield": 0.09
+      },
+      {
+        "year": 2020,
+        "yield": 0.07
+      }
+    ]
+  },
+  {
+    "municipalityId": "calayan",
+    "averageYield": 0.32,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.36
+      },
+      {
+        "year": 2011,
+        "yield": 0.63
+      },
+      {
+        "year": 2012,
+        "yield": -0.11
+      },
+      {
+        "year": 2013,
+        "yield": -0.17
+      },
+      {
+        "year": 2014,
+        "yield": 0.79
+      },
+      {
+        "year": 2015,
+        "yield": -0.15
+      },
+      {
+        "year": 2016,
+        "yield": 0.57
+      },
+      {
+        "year": 2017,
+        "yield": 0.55
+      },
+      {
+        "year": 2018,
+        "yield": 0.19
+      },
+      {
+        "year": 2020,
+        "yield": 0.52
+      }
+    ]
+  },
+  {
+    "municipalityId": "casiguran",
+    "averageYield": 0.35,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.88
+      },
+      {
+        "year": 2011,
+        "yield": 0.4
+      },
+      {
+        "year": 2012,
+        "yield": 0.24
+      },
+      {
+        "year": 2013,
+        "yield": 0.26
+      },
+      {
+        "year": 2014,
+        "yield": -0.49
+      },
+      {
+        "year": 2015,
+        "yield": 0.87
+      },
+      {
+        "year": 2016,
+        "yield": 0.64
+      },
+      {
+        "year": 2017,
+        "yield": 0.17
+      },
+      {
+        "year": 2018,
+        "yield": 0.36
+      },
+      {
+        "year": 2019,
+        "yield": 0.53
+      },
+      {
+        "year": 2020,
+        "yield": 0.04
+      }
+    ]
+  },
+  {
+    "municipalityId": "catarman",
+    "averageYield": 0.33,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.34
+      },
+      {
+        "year": 2011,
+        "yield": 0.5
+      },
+      {
+        "year": 2012,
+        "yield": 0.09
+      },
+      {
+        "year": 2013,
+        "yield": 0.63
+      },
+      {
+        "year": 2014,
+        "yield": -0.01
+      },
+      {
+        "year": 2015,
+        "yield": 0.36
+      },
+      {
+        "year": 2016,
+        "yield": 0.21
+      },
+      {
+        "year": 2017,
+        "yield": 0.5
+      },
+      {
+        "year": 2018,
+        "yield": 0.59
+      },
+      {
+        "year": 2019,
+        "yield": 0.17
+      },
+      {
+        "year": 2020,
+        "yield": 0.2
+      }
+    ]
+  },
+  {
+    "municipalityId": "catbalogan",
+    "averageYield": 0.52,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.83
+      },
+      {
+        "year": 2011,
+        "yield": 0.07
+      },
+      {
+        "year": 2012,
+        "yield": 0.76
+      },
+      {
+        "year": 2013,
+        "yield": 0.72
+      },
+      {
+        "year": 2014,
+        "yield": 0.54
+      },
+      {
+        "year": 2015,
+        "yield": 0.16
+      },
+      {
+        "year": 2016,
+        "yield": 0.41
+      },
+      {
+        "year": 2017,
+        "yield": 0.9
+      },
+      {
+        "year": 2018,
+        "yield": 0.52
+      },
+      {
+        "year": 2019,
+        "yield": 0.31
+      },
+      {
+        "year": 2020,
+        "yield": 0.48
+      }
+    ]
+  },
+  {
+    "municipalityId": "clark",
+    "averageYield": 0.42,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.4
+      },
+      {
+        "year": 2011,
+        "yield": 0.33
+      },
+      {
+        "year": 2012,
+        "yield": 0.69
+      },
+      {
+        "year": 2013,
+        "yield": 0.43
+      },
+      {
+        "year": 2014,
+        "yield": 0.36
+      },
+      {
+        "year": 2015,
+        "yield": -0.1
+      },
+      {
+        "year": 2016,
+        "yield": 0.53
+      },
+      {
+        "year": 2017,
+        "yield": 1.43
+      },
+      {
+        "year": 2018,
+        "yield": 0.04
+      },
+      {
+        "year": 2019,
+        "yield": -0.28
+      },
+      {
+        "year": 2020,
+        "yield": 0.84
+      }
+    ]
+  },
+  {
+    "municipalityId": "coron",
+    "averageYield": 0.34,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.37
+      },
+      {
+        "year": 2011,
+        "yield": 0.38
+      },
+      {
+        "year": 2012,
+        "yield": 0.48
+      },
+      {
+        "year": 2013,
+        "yield": 0.17
+      },
+      {
+        "year": 2014,
+        "yield": -0.15
+      },
+      {
+        "year": 2015,
+        "yield": 0.14
+      },
+      {
+        "year": 2016,
+        "yield": 0.26
+      },
+      {
+        "year": 2017,
+        "yield": 0.56
+      },
+      {
+        "year": 2018,
+        "yield": 0.39
+      },
+      {
+        "year": 2019,
+        "yield": 0.7
+      },
+      {
+        "year": 2020,
+        "yield": 0.39
+      }
+    ]
+  },
+  {
+    "municipalityId": "cotabato",
+    "averageYield": 0.48,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.79
+      },
+      {
+        "year": 2011,
+        "yield": 0.88
+      },
+      {
+        "year": 2012,
+        "yield": 0.22
+      },
+      {
+        "year": 2013,
+        "yield": 0.36
+      },
+      {
+        "year": 2014,
+        "yield": 0.52
+      },
+      {
+        "year": 2015,
+        "yield": 0.56
+      },
+      {
+        "year": 2016,
+        "yield": 0.21
+      },
+      {
+        "year": 2017,
+        "yield": 0.37
+      },
+      {
+        "year": 2018,
+        "yield": 0.7
+      },
+      {
+        "year": 2019,
+        "yield": -0.03
+      },
+      {
+        "year": 2020,
+        "yield": 0.68
+      }
+    ]
+  },
+  {
+    "municipalityId": "cubi_point",
+    "averageYield": 0.34,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.72
+      },
+      {
+        "year": 2011,
+        "yield": 0.49
+      },
+      {
+        "year": 2012,
+        "yield": -0.14
+      },
+      {
+        "year": 2013,
+        "yield": 0.77
+      },
+      {
+        "year": 2014,
+        "yield": 0.73
+      },
+      {
+        "year": 2015,
+        "yield": 0.55
+      },
+      {
+        "year": 2016,
+        "yield": 0.23
+      },
+      {
+        "year": 2017,
+        "yield": -0.1
+      },
+      {
+        "year": 2018,
+        "yield": -0.05
+      },
+      {
+        "year": 2019,
+        "yield": 0.38
+      },
+      {
+        "year": 2020,
+        "yield": 0.11
+      }
+    ]
+  },
+  {
+    "municipalityId": "cuyo",
+    "averageYield": 0.55,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.89
+      },
+      {
+        "year": 2011,
+        "yield": 0.66
+      },
+      {
+        "year": 2012,
+        "yield": 0.41
+      },
+      {
+        "year": 2013,
+        "yield": 1.1
+      },
+      {
+        "year": 2014,
+        "yield": 0.46
+      },
+      {
+        "year": 2015,
+        "yield": 0.53
+      },
+      {
+        "year": 2016,
+        "yield": 0.3
+      },
+      {
+        "year": 2017,
+        "yield": 0.89
+      },
+      {
+        "year": 2018,
+        "yield": 0.7
+      },
+      {
+        "year": 2019,
+        "yield": 0.22
+      },
+      {
+        "year": 2020,
+        "yield": -0.09
+      }
+    ]
+  },
+  {
+    "municipalityId": "daet",
+    "averageYield": 0.61,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.5
+      },
+      {
+        "year": 2011,
+        "yield": 0.69
+      },
+      {
+        "year": 2012,
+        "yield": 0.71
+      },
+      {
+        "year": 2013,
+        "yield": 0.84
+      },
+      {
+        "year": 2014,
+        "yield": 0.67
+      },
+      {
+        "year": 2015,
+        "yield": 0.61
+      },
+      {
+        "year": 2016,
+        "yield": 0.87
+      },
+      {
+        "year": 2017,
+        "yield": 0.32
+      },
+      {
+        "year": 2018,
+        "yield": 0.25
+      },
+      {
+        "year": 2019,
+        "yield": 0.45
+      },
+      {
+        "year": 2020,
+        "yield": 0.84
+      }
+    ]
+  },
+  {
+    "municipalityId": "dagupan",
+    "averageYield": 0.52,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.49
+      },
+      {
+        "year": 2011,
+        "yield": 0.26
+      },
+      {
+        "year": 2012,
+        "yield": 0.92
+      },
+      {
+        "year": 2013,
+        "yield": 0.32
+      },
+      {
+        "year": 2014,
+        "yield": 1.13
+      },
+      {
+        "year": 2015,
+        "yield": 0.77
+      },
+      {
+        "year": 2016,
+        "yield": 0.1
+      },
+      {
+        "year": 2017,
+        "yield": 0.52
+      },
+      {
+        "year": 2018,
+        "yield": 0.2
+      },
+      {
+        "year": 2019,
+        "yield": 0.67
+      },
+      {
+        "year": 2020,
+        "yield": 0.37
+      }
+    ]
+  },
+  {
+    "municipalityId": "dauis",
+    "averageYield": 0.43,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.92
+      },
+      {
+        "year": 2011,
+        "yield": 0.43
+      },
+      {
+        "year": 2012,
+        "yield": 0.37
+      },
+      {
+        "year": 2013,
+        "yield": 0.23
+      },
+      {
+        "year": 2014,
+        "yield": 0.69
+      },
+      {
+        "year": 2015,
+        "yield": 0.31
+      },
+      {
+        "year": 2016,
+        "yield": -0.18
+      },
+      {
+        "year": 2017,
+        "yield": 0.63
+      },
+      {
+        "year": 2018,
+        "yield": 0.59
+      },
+      {
+        "year": 2019,
+        "yield": 0.37
+      },
+      {
+        "year": 2020,
+        "yield": 0.41
+      }
+    ]
+  },
+  {
+    "municipalityId": "davao_city",
+    "averageYield": 0.32,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.6
+      },
+      {
+        "year": 2011,
+        "yield": 0.09
+      },
+      {
+        "year": 2012,
+        "yield": 0.56
+      },
+      {
+        "year": 2013,
+        "yield": 0.34
+      },
+      {
+        "year": 2014,
+        "yield": -0.07
+      },
+      {
+        "year": 2015,
+        "yield": 0.26
+      },
+      {
+        "year": 2016,
+        "yield": 0.15
+      },
+      {
+        "year": 2017,
+        "yield": 0.42
+      },
+      {
+        "year": 2018,
+        "yield": 0.51
+      },
+      {
+        "year": 2019,
+        "yield": 0.32
+      },
+      {
+        "year": 2020,
+        "yield": 0.37
+      }
+    ]
+  },
+  {
+    "municipalityId": "dipolog",
+    "averageYield": 0.54,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.79
+      },
+      {
+        "year": 2011,
+        "yield": 0.94
+      },
+      {
+        "year": 2012,
+        "yield": 0.28
+      },
+      {
+        "year": 2013,
+        "yield": 0.88
+      },
+      {
+        "year": 2014,
+        "yield": 0.62
+      },
+      {
+        "year": 2015,
+        "yield": -0.2
+      },
+      {
+        "year": 2016,
+        "yield": -0.37
+      },
+      {
+        "year": 2017,
+        "yield": 0.95
+      },
+      {
+        "year": 2018,
+        "yield": 0.74
+      },
+      {
+        "year": 2019,
+        "yield": 1.04
+      },
+      {
+        "year": 2020,
+        "yield": 0.3
+      }
+    ]
+  },
+  {
+    "municipalityId": "dumaguete",
+    "averageYield": 0.24,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.25
+      },
+      {
+        "year": 2011,
+        "yield": 0.32
+      },
+      {
+        "year": 2012,
+        "yield": 0.64
+      },
+      {
+        "year": 2013,
+        "yield": 0.48
+      },
+      {
+        "year": 2014,
+        "yield": 0.22
+      },
+      {
+        "year": 2015,
+        "yield": -0.14
+      },
+      {
+        "year": 2016,
+        "yield": 0.21
+      },
+      {
+        "year": 2017,
+        "yield": 0.51
+      },
+      {
+        "year": 2018,
+        "yield": 0.49
+      },
+      {
+        "year": 2019,
+        "yield": -0.04
+      },
+      {
+        "year": 2020,
+        "yield": -0.26
+      }
+    ]
+  },
+  {
+    "municipalityId": "el_salvador",
+    "averageYield": 0.65,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.38
+      },
+      {
+        "year": 2011,
+        "yield": 0.4
+      },
+      {
+        "year": 2012,
+        "yield": 0.92
+      },
+      {
+        "year": 2013,
+        "yield": 0.6
+      },
+      {
+        "year": 2014,
+        "yield": 0.87
+      },
+      {
+        "year": 2015,
+        "yield": 0.72
+      },
+      {
+        "year": 2016,
+        "yield": 0.8
+      },
+      {
+        "year": 2017,
+        "yield": 0.38
+      },
+      {
+        "year": 2018,
+        "yield": 0.18
+      },
+      {
+        "year": 2019,
+        "yield": 1.02
+      },
+      {
+        "year": 2020,
+        "yield": 0.85
+      }
+    ]
+  },
+  {
+    "municipalityId": "general_santos",
+    "averageYield": 0.18,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": -0.28
+      },
+      {
+        "year": 2011,
+        "yield": 0.28
+      },
+      {
+        "year": 2012,
+        "yield": 0.15
+      },
+      {
+        "year": 2013,
+        "yield": 0.45
+      },
+      {
+        "year": 2014,
+        "yield": -0.01
+      },
+      {
+        "year": 2015,
+        "yield": -0.06
+      },
+      {
+        "year": 2016,
+        "yield": 0.45
+      },
+      {
+        "year": 2017,
+        "yield": 0.51
+      },
+      {
+        "year": 2018,
+        "yield": 0.21
+      },
+      {
+        "year": 2019,
+        "yield": 0.29
+      },
+      {
+        "year": 2020,
+        "yield": 0.04
+      }
+    ]
+  },
+  {
+    "municipalityId": "guiuan",
+    "averageYield": 0.43,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.27
+      },
+      {
+        "year": 2011,
+        "yield": 0.66
+      },
+      {
+        "year": 2012,
+        "yield": 0.64
+      },
+      {
+        "year": 2013,
+        "yield": -0.12
+      },
+      {
+        "year": 2014,
+        "yield": 0.8
+      },
+      {
+        "year": 2015,
+        "yield": -0.06
+      },
+      {
+        "year": 2016,
+        "yield": 0.51
+      },
+      {
+        "year": 2017,
+        "yield": 0.84
+      },
+      {
+        "year": 2018,
+        "yield": 0.22
+      },
+      {
+        "year": 2019,
+        "yield": 0.4
+      },
+      {
+        "year": 2020,
+        "yield": 0.53
+      }
+    ]
+  },
+  {
+    "municipalityId": "hinatuan",
+    "averageYield": 0.48,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": -0.05
+      },
+      {
+        "year": 2011,
+        "yield": 0.46
+      },
+      {
+        "year": 2012,
+        "yield": 0.48
+      },
+      {
+        "year": 2013,
+        "yield": 0.28
+      },
+      {
+        "year": 2014,
+        "yield": 0.35
+      },
+      {
+        "year": 2015,
+        "yield": 1.01
+      },
+      {
+        "year": 2016,
+        "yield": 0.37
+      },
+      {
+        "year": 2017,
+        "yield": 0.8
+      },
+      {
+        "year": 2018,
+        "yield": 0.84
+      },
+      {
+        "year": 2019,
+        "yield": 0.47
+      },
+      {
+        "year": 2020,
+        "yield": 0.28
+      }
+    ]
+  },
+  {
+    "municipalityId": "iba",
+    "averageYield": 0.37,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.14
+      },
+      {
+        "year": 2011,
+        "yield": 1.03
+      },
+      {
+        "year": 2012,
+        "yield": 0.44
+      },
+      {
+        "year": 2013,
+        "yield": 0.37
+      },
+      {
+        "year": 2014,
+        "yield": -0.23
+      },
+      {
+        "year": 2015,
+        "yield": 0.29
+      },
+      {
+        "year": 2016,
+        "yield": 0.43
+      },
+      {
+        "year": 2017,
+        "yield": 0.58
+      },
+      {
+        "year": 2018,
+        "yield": 0.42
+      },
+      {
+        "year": 2019,
+        "yield": 0.23
+      },
+      {
+        "year": 2020,
+        "yield": 0.33
+      }
+    ]
+  },
+  {
+    "municipalityId": "infanta",
+    "averageYield": 0.48,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.78
+      },
+      {
+        "year": 2011,
+        "yield": 1.11
+      },
+      {
+        "year": 2012,
+        "yield": 0.27
+      },
+      {
+        "year": 2013,
+        "yield": 0.15
+      },
+      {
+        "year": 2014,
+        "yield": 0.65
+      },
+      {
+        "year": 2015,
+        "yield": 0.78
+      },
+      {
+        "year": 2016,
+        "yield": 0.05
+      },
+      {
+        "year": 2017,
+        "yield": 0.48
+      },
+      {
+        "year": 2018,
+        "yield": 0.65
+      },
+      {
+        "year": 2019,
+        "yield": 0.08
+      },
+      {
+        "year": 2020,
+        "yield": 0.32
+      }
+    ]
+  },
+  {
+    "municipalityId": "itbayat",
+    "averageYield": 0.44,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.42
+      },
+      {
+        "year": 2011,
+        "yield": 0.44
+      },
+      {
+        "year": 2012,
+        "yield": 0.37
+      },
+      {
+        "year": 2013,
+        "yield": 0.99
+      },
+      {
+        "year": 2014,
+        "yield": 0.41
+      },
+      {
+        "year": 2015,
+        "yield": 0.46
+      },
+      {
+        "year": 2016,
+        "yield": 0.4
+      },
+      {
+        "year": 2017,
+        "yield": 0.22
+      },
+      {
+        "year": 2018,
+        "yield": 0.4
+      },
+      {
+        "year": 2019,
+        "yield": 0.32
+      },
+      {
+        "year": 2020,
+        "yield": 0.38
+      }
+    ]
+  },
+  {
+    "municipalityId": "juban",
+    "averageYield": 0.44,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.16
+      },
+      {
+        "year": 2011,
+        "yield": 0.66
+      },
+      {
+        "year": 2012,
+        "yield": 0.33
+      },
+      {
+        "year": 2013,
+        "yield": 0.57
+      },
+      {
+        "year": 2014,
+        "yield": 0.4
+      },
+      {
+        "year": 2015,
+        "yield": 0.11
+      },
+      {
+        "year": 2016,
+        "yield": 0.35
+      },
+      {
+        "year": 2017,
+        "yield": 0.24
+      },
+      {
+        "year": 2018,
+        "yield": 0.62
+      },
+      {
+        "year": 2019,
+        "yield": 1.08
+      },
+      {
+        "year": 2020,
+        "yield": 0.29
+      }
+    ]
+  },
+  {
+    "municipalityId": "laoag",
+    "averageYield": 0.37,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.09
+      },
+      {
+        "year": 2011,
+        "yield": 0.07
+      },
+      {
+        "year": 2012,
+        "yield": 0.39
+      },
+      {
+        "year": 2013,
+        "yield": 0.47
+      },
+      {
+        "year": 2014,
+        "yield": 0.37
+      },
+      {
+        "year": 2015,
+        "yield": -0.29
+      },
+      {
+        "year": 2016,
+        "yield": 0.25
+      },
+      {
+        "year": 2017,
+        "yield": 0.93
+      },
+      {
+        "year": 2018,
+        "yield": 0.96
+      },
+      {
+        "year": 2019,
+        "yield": 0.23
+      },
+      {
+        "year": 2020,
+        "yield": 0.57
+      }
+    ]
+  },
+  {
+    "municipalityId": "legazpi",
+    "averageYield": 0.4,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.38
+      },
+      {
+        "year": 2011,
+        "yield": 0.52
+      },
+      {
+        "year": 2012,
+        "yield": 0.63
+      },
+      {
+        "year": 2013,
+        "yield": -0.04
+      },
+      {
+        "year": 2014,
+        "yield": 0.68
+      },
+      {
+        "year": 2015,
+        "yield": 0.35
+      },
+      {
+        "year": 2016,
+        "yield": 0.64
+      },
+      {
+        "year": 2017,
+        "yield": 0.29
+      },
+      {
+        "year": 2018,
+        "yield": 0.32
+      },
+      {
+        "year": 2019,
+        "yield": 0.48
+      },
+      {
+        "year": 2020,
+        "yield": 0.16
+      }
+    ]
+  },
+  {
+    "municipalityId": "maasin",
+    "averageYield": 0.55,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.95
+      },
+      {
+        "year": 2011,
+        "yield": 0.35
+      },
+      {
+        "year": 2012,
+        "yield": 0.7
+      },
+      {
+        "year": 2013,
+        "yield": 0.78
+      },
+      {
+        "year": 2014,
+        "yield": 1.23
+      },
+      {
+        "year": 2015,
+        "yield": 0.18
+      },
+      {
+        "year": 2016,
+        "yield": 0.28
+      },
+      {
+        "year": 2017,
+        "yield": 0.58
+      },
+      {
+        "year": 2018,
+        "yield": 0.05
+      },
+      {
+        "year": 2019,
+        "yield": 0.69
+      },
+      {
+        "year": 2020,
+        "yield": 0.23
+      }
+    ]
+  },
+  {
+    "municipalityId": "mactan",
+    "averageYield": 0.42,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.3
+      },
+      {
+        "year": 2011,
+        "yield": 0.49
+      },
+      {
+        "year": 2012,
+        "yield": 0.39
+      },
+      {
+        "year": 2013,
+        "yield": 0.78
+      },
+      {
+        "year": 2014,
+        "yield": 0.82
+      },
+      {
+        "year": 2015,
+        "yield": 0.28
+      },
+      {
+        "year": 2016,
+        "yield": -0.56
+      },
+      {
+        "year": 2018,
+        "yield": 0.97
+      },
+      {
+        "year": 2019,
+        "yield": 0.47
+      },
+      {
+        "year": 2020,
+        "yield": 0.22
+      }
+    ]
+  },
+  {
+    "municipalityId": "malaybalay",
+    "averageYield": 0.31,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.68
+      },
+      {
+        "year": 2011,
+        "yield": 0.24
+      },
+      {
+        "year": 2012,
+        "yield": 0.39
+      },
+      {
+        "year": 2013,
+        "yield": -0.03
+      },
+      {
+        "year": 2014,
+        "yield": 0.52
+      },
+      {
+        "year": 2015,
+        "yield": -0.1
+      },
+      {
+        "year": 2017,
+        "yield": 0.47
+      },
+      {
+        "year": 2018,
+        "yield": 0.48
+      },
+      {
+        "year": 2019,
+        "yield": 0.47
+      },
+      {
+        "year": 2020,
+        "yield": 0.02
+      }
+    ]
+  },
+  {
+    "municipalityId": "masbate",
+    "averageYield": 0.32,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.33
+      },
+      {
+        "year": 2011,
+        "yield": 0.06
+      },
+      {
+        "year": 2012,
+        "yield": 0.47
+      },
+      {
+        "year": 2013,
+        "yield": 0.02
+      },
+      {
+        "year": 2014,
+        "yield": 0.97
+      },
+      {
+        "year": 2015,
+        "yield": -0.02
+      },
+      {
+        "year": 2016,
+        "yield": -0.07
+      },
+      {
+        "year": 2017,
+        "yield": 0.33
+      },
+      {
+        "year": 2018,
+        "yield": 0.63
+      },
+      {
+        "year": 2019,
+        "yield": 0.62
+      },
+      {
+        "year": 2020,
+        "yield": 0.15
+      }
+    ]
+  },
+  {
+    "municipalityId": "naia",
+    "averageYield": 0.63,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.96
+      },
+      {
+        "year": 2011,
+        "yield": 0.69
+      },
+      {
+        "year": 2012,
+        "yield": 0.61
+      },
+      {
+        "year": 2013,
+        "yield": -0.01
+      },
+      {
+        "year": 2014,
+        "yield": 0.73
+      },
+      {
+        "year": 2015,
+        "yield": 1.05
+      },
+      {
+        "year": 2016,
+        "yield": 0.66
+      },
+      {
+        "year": 2017,
+        "yield": 0.41
+      },
+      {
+        "year": 2018,
+        "yield": 1.12
+      },
+      {
+        "year": 2019,
+        "yield": 0.44
+      },
+      {
+        "year": 2020,
+        "yield": 0.29
+      }
+    ]
+  },
+  {
+    "municipalityId": "port_area",
+    "averageYield": 0.51,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.66
+      },
+      {
+        "year": 2011,
+        "yield": 0.64
+      },
+      {
+        "year": 2012,
+        "yield": 0.86
+      },
+      {
+        "year": 2013,
+        "yield": -0.01
+      },
+      {
+        "year": 2014,
+        "yield": 0.67
+      },
+      {
+        "year": 2015,
+        "yield": 0.4
+      },
+      {
+        "year": 2016,
+        "yield": -0.09
+      },
+      {
+        "year": 2017,
+        "yield": 0.48
+      },
+      {
+        "year": 2018,
+        "yield": 0.72
+      },
+      {
+        "year": 2019,
+        "yield": 1.07
+      },
+      {
+        "year": 2020,
+        "yield": 0.23
+      }
+    ]
+  },
+  {
+    "municipalityId": "puerto_princesa",
+    "averageYield": 0.33,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.76
+      },
+      {
+        "year": 2011,
+        "yield": 0.07
+      },
+      {
+        "year": 2012,
+        "yield": 0.72
+      },
+      {
+        "year": 2013,
+        "yield": 0.22
+      },
+      {
+        "year": 2014,
+        "yield": 0.14
+      },
+      {
+        "year": 2015,
+        "yield": 0.58
+      },
+      {
+        "year": 2016,
+        "yield": 0.3
+      },
+      {
+        "year": 2017,
+        "yield": -0.23
+      },
+      {
+        "year": 2018,
+        "yield": 0.22
+      },
+      {
+        "year": 2019,
+        "yield": 0.24
+      },
+      {
+        "year": 2020,
+        "yield": 0.64
+      }
+    ]
+  },
+  {
+    "municipalityId": "romblon",
+    "averageYield": 0.32,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.57
+      },
+      {
+        "year": 2011,
+        "yield": 0.39
+      },
+      {
+        "year": 2012,
+        "yield": 0.52
+      },
+      {
+        "year": 2013,
+        "yield": -0.09
+      },
+      {
+        "year": 2014,
+        "yield": 0.3
+      },
+      {
+        "year": 2015,
+        "yield": 0.68
+      },
+      {
+        "year": 2016,
+        "yield": 0.18
+      },
+      {
+        "year": 2017,
+        "yield": -0.25
+      },
+      {
+        "year": 2018,
+        "yield": 0.34
+      },
+      {
+        "year": 2019,
+        "yield": 0.29
+      },
+      {
+        "year": 2020,
+        "yield": 0.59
+      }
+    ]
+  },
+  {
+    "municipalityId": "roxas_city",
+    "averageYield": 0.5,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.69
+      },
+      {
+        "year": 2011,
+        "yield": 1.02
+      },
+      {
+        "year": 2012,
+        "yield": 0.67
+      },
+      {
+        "year": 2013,
+        "yield": 0.55
+      },
+      {
+        "year": 2014,
+        "yield": 0.09
+      },
+      {
+        "year": 2015,
+        "yield": 0.33
+      },
+      {
+        "year": 2016,
+        "yield": 0.5
+      },
+      {
+        "year": 2017,
+        "yield": 0.8
+      },
+      {
+        "year": 2018,
+        "yield": 0.6
+      },
+      {
+        "year": 2019,
+        "yield": 0.26
+      },
+      {
+        "year": 2020,
+        "yield": -0.02
+      }
+    ]
+  },
+  {
+    "municipalityId": "san_jose",
+    "averageYield": 0.32,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.6
+      },
+      {
+        "year": 2011,
+        "yield": 0.75
+      },
+      {
+        "year": 2012,
+        "yield": -0.12
+      },
+      {
+        "year": 2013,
+        "yield": 0.59
+      },
+      {
+        "year": 2014,
+        "yield": -0.11
+      },
+      {
+        "year": 2015,
+        "yield": 0.26
+      },
+      {
+        "year": 2016,
+        "yield": 0.27
+      },
+      {
+        "year": 2017,
+        "yield": 0.51
+      },
+      {
+        "year": 2018,
+        "yield": -0.12
+      },
+      {
+        "year": 2019,
+        "yield": 0.17
+      },
+      {
+        "year": 2020,
+        "yield": 0.72
+      }
+    ]
+  },
+  {
+    "municipalityId": "sangley_point",
+    "averageYield": 0.44,
+    "historicalData": [
+      {
+        "year": 2011,
+        "yield": 0.7
+      },
+      {
+        "year": 2012,
+        "yield": 0.32
+      },
+      {
+        "year": 2013,
+        "yield": 0.37
+      },
+      {
+        "year": 2014,
+        "yield": 0.32
+      },
+      {
+        "year": 2015,
+        "yield": 0.82
+      },
+      {
+        "year": 2016,
+        "yield": 0.48
+      },
+      {
+        "year": 2017,
+        "yield": -0.05
+      },
+      {
+        "year": 2018,
+        "yield": 0.45
+      },
+      {
+        "year": 2019,
+        "yield": 0.35
+      },
+      {
+        "year": 2020,
+        "yield": 0.64
+      }
+    ]
+  },
+  {
+    "municipalityId": "science_garden",
+    "averageYield": 0.54,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.34
+      },
+      {
+        "year": 2011,
+        "yield": 0.87
+      },
+      {
+        "year": 2012,
+        "yield": 0.6
+      },
+      {
+        "year": 2013,
+        "yield": 0.05
+      },
+      {
+        "year": 2014,
+        "yield": 0.75
+      },
+      {
+        "year": 2015,
+        "yield": 0.36
+      },
+      {
+        "year": 2016,
+        "yield": 0.62
+      },
+      {
+        "year": 2017,
+        "yield": 0.6
+      },
+      {
+        "year": 2018,
+        "yield": 0.67
+      },
+      {
+        "year": 2019,
+        "yield": 0.59
+      },
+      {
+        "year": 2020,
+        "yield": 0.45
+      }
+    ]
+  },
+  {
+    "municipalityId": "sinait",
+    "averageYield": 0.41,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.69
+      },
+      {
+        "year": 2011,
+        "yield": 0.5
+      },
+      {
+        "year": 2012,
+        "yield": 0.23
+      },
+      {
+        "year": 2013,
+        "yield": 0.64
+      },
+      {
+        "year": 2014,
+        "yield": -0.04
+      },
+      {
+        "year": 2015,
+        "yield": 0.63
+      },
+      {
+        "year": 2016,
+        "yield": 0.12
+      },
+      {
+        "year": 2017,
+        "yield": 0.55
+      },
+      {
+        "year": 2018,
+        "yield": 0.63
+      },
+      {
+        "year": 2019,
+        "yield": 0.06
+      },
+      {
+        "year": 2020,
+        "yield": 0.55
+      }
+    ]
+  },
+  {
+    "municipalityId": "surigao",
+    "averageYield": 0.31,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.45
+      },
+      {
+        "year": 2011,
+        "yield": 0.39
+      },
+      {
+        "year": 2012,
+        "yield": 0.41
+      },
+      {
+        "year": 2013,
+        "yield": -0.31
+      },
+      {
+        "year": 2014,
+        "yield": 0.25
+      },
+      {
+        "year": 2015,
+        "yield": 0.64
+      },
+      {
+        "year": 2016,
+        "yield": 0.04
+      },
+      {
+        "year": 2017,
+        "yield": 0.51
+      },
+      {
+        "year": 2018,
+        "yield": 0.17
+      },
+      {
+        "year": 2019,
+        "yield": 0.61
+      },
+      {
+        "year": 2020,
+        "yield": 0.21
+      }
+    ]
+  },
+  {
+    "municipalityId": "tacloban",
+    "averageYield": 0.35,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.19
+      },
+      {
+        "year": 2011,
+        "yield": 0.44
+      },
+      {
+        "year": 2012,
+        "yield": -0.03
+      },
+      {
+        "year": 2013,
+        "yield": 0.42
+      },
+      {
+        "year": 2014,
+        "yield": 0.54
+      },
+      {
+        "year": 2015,
+        "yield": 0.5
+      },
+      {
+        "year": 2016,
+        "yield": 0.39
+      },
+      {
+        "year": 2017,
+        "yield": 0.37
+      },
+      {
+        "year": 2018,
+        "yield": 0.28
+      },
+      {
+        "year": 2019,
+        "yield": 0.4
+      },
+      {
+        "year": 2020,
+        "yield": 0.33
+      }
+    ]
+  },
+  {
+    "municipalityId": "tanay",
+    "averageYield": 0.34,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": -0.01
+      },
+      {
+        "year": 2011,
+        "yield": 0.25
+      },
+      {
+        "year": 2012,
+        "yield": 0.41
+      },
+      {
+        "year": 2013,
+        "yield": 0.49
+      },
+      {
+        "year": 2014,
+        "yield": 0.38
+      },
+      {
+        "year": 2015,
+        "yield": 0.54
+      },
+      {
+        "year": 2016,
+        "yield": 0.35
+      },
+      {
+        "year": 2017,
+        "yield": 0.2
+      },
+      {
+        "year": 2018,
+        "yield": 0.43
+      },
+      {
+        "year": 2019,
+        "yield": 0.15
+      },
+      {
+        "year": 2020,
+        "yield": 0.58
+      }
+    ]
+  },
+  {
+    "municipalityId": "tayabas",
+    "averageYield": 0.21,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": -0.26
+      },
+      {
+        "year": 2011,
+        "yield": 0.5
+      },
+      {
+        "year": 2012,
+        "yield": 1.07
+      },
+      {
+        "year": 2013,
+        "yield": -0.25
+      },
+      {
+        "year": 2014,
+        "yield": 0.48
+      },
+      {
+        "year": 2015,
+        "yield": 0.23
+      },
+      {
+        "year": 2016,
+        "yield": -0.31
+      },
+      {
+        "year": 2017,
+        "yield": 0.08
+      },
+      {
+        "year": 2018,
+        "yield": 0.06
+      },
+      {
+        "year": 2019,
+        "yield": 0.72
+      },
+      {
+        "year": 2020,
+        "yield": -0.02
+      }
+    ]
+  },
+  {
+    "municipalityId": "tuguegarao",
+    "averageYield": 0.5,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.16
+      },
+      {
+        "year": 2011,
+        "yield": 0.17
+      },
+      {
+        "year": 2012,
+        "yield": 0.31
+      },
+      {
+        "year": 2013,
+        "yield": 0.48
+      },
+      {
+        "year": 2014,
+        "yield": 0.93
+      },
+      {
+        "year": 2015,
+        "yield": 0.23
+      },
+      {
+        "year": 2016,
+        "yield": 0.7
+      },
+      {
+        "year": 2017,
+        "yield": 1.03
+      },
+      {
+        "year": 2018,
+        "yield": 0.93
+      },
+      {
+        "year": 2019,
+        "yield": 0.69
+      },
+      {
+        "year": 2020,
+        "yield": -0.09
+      }
+    ]
+  },
+  {
+    "municipalityId": "virac_synop",
+    "averageYield": 0.45,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.38
+      },
+      {
+        "year": 2011,
+        "yield": 0.31
+      },
+      {
+        "year": 2012,
+        "yield": 0.28
+      },
+      {
+        "year": 2013,
+        "yield": 0.66
+      },
+      {
+        "year": 2014,
+        "yield": 0.98
+      },
+      {
+        "year": 2015,
+        "yield": 0.33
+      },
+      {
+        "year": 2016,
+        "yield": 0.66
+      },
+      {
+        "year": 2017,
+        "yield": -0.01
+      },
+      {
+        "year": 2018,
+        "yield": 0.68
+      },
+      {
+        "year": 2019,
+        "yield": -0.11
+      },
+      {
+        "year": 2020,
+        "yield": 0.78
+      }
+    ]
+  },
+  {
+    "municipalityId": "zamboanga",
+    "averageYield": 0.43,
+    "historicalData": [
+      {
+        "year": 2010,
+        "yield": 0.32
+      },
+      {
+        "year": 2011,
+        "yield": 0.64
+      },
+      {
+        "year": 2012,
+        "yield": 0.34
+      },
+      {
+        "year": 2013,
+        "yield": 0.22
+      },
+      {
+        "year": 2014,
+        "yield": 0.11
+      },
+      {
+        "year": 2015,
+        "yield": 0.61
+      },
+      {
+        "year": 2016,
+        "yield": 0.47
+      },
+      {
+        "year": 2017,
+        "yield": 0.21
+      },
+      {
+        "year": 2018,
+        "yield": 0.27
+      },
+      {
+        "year": 2019,
+        "yield": 0.95
+      },
+      {
+        "year": 2020,
+        "yield": 0.59
+      }
+    ]
+  }
+]
