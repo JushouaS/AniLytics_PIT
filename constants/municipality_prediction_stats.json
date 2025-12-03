@@ -1,0 +1,401 @@
+{
+  "Abucay": {
+    "avg_yield": 0.25818181818181823,
+    "min_yield": 0.03,
+    "max_yield": 0.6,
+    "trend": 0.013999999999994857,
+    "recent_yield": 0.04
+  },
+  "Alabat": {
+    "avg_yield": 0.32090909090909087,
+    "min_yield": -0.17,
+    "max_yield": 0.9,
+    "trend": -0.055727272727261364,
+    "recent_yield": -0.17
+  },
+  "Ambulong": {
+    "avg_yield": 0.39181818181818184,
+    "min_yield": 0.06,
+    "max_yield": 0.77,
+    "trend": -0.03281818181817918,
+    "recent_yield": 0.41
+  },
+  "Aparri": {
+    "avg_yield": 0.43727272727272726,
+    "min_yield": 0.08,
+    "max_yield": 1.19,
+    "trend": -0.01318181818182983,
+    "recent_yield": 0.44
+  },
+  "Baguio": {
+    "avg_yield": 0.5636363636363636,
+    "min_yield": 0.09,
+    "max_yield": 0.97,
+    "trend": -0.0016363636363670364,
+    "recent_yield": 0.97
+  },
+  "Baler Radar": {
+    "avg_yield": 0.4936363636363637,
+    "min_yield": -0.14,
+    "max_yield": 1.08,
+    "trend": -0.03854545454545507,
+    "recent_yield": 0.47
+  },
+  "Basco Radar": {
+    "avg_yield": 0.3145454545454546,
+    "min_yield": -0.2,
+    "max_yield": 0.75,
+    "trend": 0.014909090909093285,
+    "recent_yield": 0.18
+  },
+  "Borongan": {
+    "avg_yield": 0.47818181818181826,
+    "min_yield": -0.33,
+    "max_yield": 1.35,
+    "trend": 0.021272727272732266,
+    "recent_yield": 0.87
+  },
+  "Butuan": {
+    "avg_yield": 0.4809090909090909,
+    "min_yield": -0.14,
+    "max_yield": 0.97,
+    "trend": 0.025909090909089653,
+    "recent_yield": 0.5
+  },
+  "Cabanatuan": {
+    "avg_yield": 0.4736363636363636,
+    "min_yield": -0.13,
+    "max_yield": 0.95,
+    "trend": -0.023454545454548576,
+    "recent_yield": 0.5
+  },
+  "Calapan": {
+    "avg_yield": 0.2290909090909091,
+    "min_yield": -0.54,
+    "max_yield": 0.71,
+    "trend": -0.0135454545454638,
+    "recent_yield": 0.07
+  },
+  "Calayan": {
+    "avg_yield": 0.2890909090909091,
+    "min_yield": -0.17,
+    "max_yield": 0.79,
+    "trend": 0.003636363636362627,
+    "recent_yield": 0.52
+  },
+  "Casiguran": {
+    "avg_yield": 0.3545454545454545,
+    "min_yield": -0.49,
+    "max_yield": 0.88,
+    "trend": -0.021545454545462774,
+    "recent_yield": 0.04
+  },
+  "Catarman": {
+    "avg_yield": 0.32545454545454544,
+    "min_yield": -0.01,
+    "max_yield": 0.63,
+    "trend": -0.005090909090909278,
+    "recent_yield": 0.2
+  },
+  "Catbalogan": {
+    "avg_yield": 0.5181818181818181,
+    "min_yield": 0.07,
+    "max_yield": 0.9,
+    "trend": -0.01163636363636708,
+    "recent_yield": 0.48
+  },
+  "Clark": {
+    "avg_yield": 0.42454545454545445,
+    "min_yield": -0.28,
+    "max_yield": 1.43,
+    "trend": -0.00018181818181683588,
+    "recent_yield": 0.84
+  },
+  "CLSU": {
+    "avg_yield": 0.4545454545454545,
+    "min_yield": 0.26,
+    "max_yield": 0.7,
+    "trend": 0.0010909090909058017,
+    "recent_yield": 0.51
+  },
+  "Coron": {
+    "avg_yield": 0.33545454545454545,
+    "min_yield": -0.15,
+    "max_yield": 0.7,
+    "trend": 0.020909090909087484,
+    "recent_yield": 0.39
+  },
+  "Cotabato": {
+    "avg_yield": 0.47818181818181815,
+    "min_yield": -0.03,
+    "max_yield": 0.88,
+    "trend": -0.02763636363636514,
+    "recent_yield": 0.68
+  },
+  "Cubi Point": {
+    "avg_yield": 0.33545454545454545,
+    "min_yield": -0.14,
+    "max_yield": 0.77,
+    "trend": -0.049636363636361654,
+    "recent_yield": 0.11
+  },
+  "Cuyo": {
+    "avg_yield": 0.5518181818181819,
+    "min_yield": -0.09,
+    "max_yield": 1.1,
+    "trend": -0.05790909090908791,
+    "recent_yield": -0.09
+  },
+  "Daet": {
+    "avg_yield": 0.6136363636363635,
+    "min_yield": 0.25,
+    "max_yield": 0.87,
+    "trend": -0.013454545454539776,
+    "recent_yield": 0.84
+  },
+  "Dagupan": {
+    "avg_yield": 0.5227272727272727,
+    "min_yield": 0.1,
+    "max_yield": 1.13,
+    "trend": -0.015909090909087424,
+    "recent_yield": 0.37
+  },
+  "Dauis": {
+    "avg_yield": 0.43363636363636365,
+    "min_yield": -0.18,
+    "max_yield": 0.92,
+    "trend": -0.020000000000005434,
+    "recent_yield": 0.41
+  },
+  "Davao City": {
+    "avg_yield": 0.32272727272727275,
+    "min_yield": -0.07,
+    "max_yield": 0.6,
+    "trend": -5.4124417263590446e-15,
+    "recent_yield": 0.37
+  },
+  "Dipolog": {
+    "avg_yield": 0.5427272727272727,
+    "min_yield": -0.37,
+    "max_yield": 1.04,
+    "trend": -0.01381818181818046,
+    "recent_yield": 0.3
+  },
+  "Dumaguete": {
+    "avg_yield": 0.24363636363636368,
+    "min_yield": -0.26,
+    "max_yield": 0.64,
+    "trend": -0.03990909090908327,
+    "recent_yield": -0.26
+  },
+  "El Salvador": {
+    "avg_yield": 0.6472727272727272,
+    "min_yield": 0.18,
+    "max_yield": 1.02,
+    "trend": 0.019090909090911996,
+    "recent_yield": 0.85
+  },
+  "General Santos": {
+    "avg_yield": 0.18454545454545454,
+    "min_yield": -0.28,
+    "max_yield": 0.51,
+    "trend": 0.021818181818187208,
+    "recent_yield": 0.04
+  },
+  "Guiuan": {
+    "avg_yield": 0.4263636363636364,
+    "min_yield": -0.12,
+    "max_yield": 0.84,
+    "trend": 0.005727272727276581,
+    "recent_yield": 0.53
+  },
+  "Hinatuan": {
+    "avg_yield": 0.4809090909090909,
+    "min_yield": -0.05,
+    "max_yield": 1.01,
+    "trend": 0.03481818181818243,
+    "recent_yield": 0.28
+  },
+  "Iba": {
+    "avg_yield": 0.3663636363636363,
+    "min_yield": -0.23,
+    "max_yield": 1.03,
+    "trend": -0.011181818181811244,
+    "recent_yield": 0.33
+  },
+  "Infanta": {
+    "avg_yield": 0.48363636363636375,
+    "min_yield": 0.05,
+    "max_yield": 1.11,
+    "trend": -0.047454545454543695,
+    "recent_yield": 0.32
+  },
+  "Itbayat": {
+    "avg_yield": 0.4372727272727273,
+    "min_yield": 0.22,
+    "max_yield": 0.99,
+    "trend": -0.019454545454541297,
+    "recent_yield": 0.38
+  },
+  "Juban": {
+    "avg_yield": 0.4372727272727273,
+    "min_yield": 0.11,
+    "max_yield": 1.08,
+    "trend": 0.022636363636367014,
+    "recent_yield": 0.29
+  },
+  "Laoag": {
+    "avg_yield": 0.36727272727272725,
+    "min_yield": -0.29,
+    "max_yield": 0.96,
+    "trend": 0.05045454545454212,
+    "recent_yield": 0.57
+  },
+  "Legazpi": {
+    "avg_yield": 0.40090909090909094,
+    "min_yield": -0.04,
+    "max_yield": 0.68,
+    "trend": -0.014272727272723952,
+    "recent_yield": 0.16
+  },
+  "Maasin": {
+    "avg_yield": 0.5472727272727272,
+    "min_yield": 0.05,
+    "max_yield": 1.23,
+    "trend": -0.05036363636363258,
+    "recent_yield": 0.23
+  },
+  "Mactan": {
+    "avg_yield": 0.3781818181818181,
+    "min_yield": -0.56,
+    "max_yield": 0.97,
+    "trend": -0.01527272727272204,
+    "recent_yield": 0.22
+  },
+  "Malaybalay": {
+    "avg_yield": 0.28545454545454546,
+    "min_yield": -0.1,
+    "max_yield": 0.68,
+    "trend": -0.014818181818185613,
+    "recent_yield": 0.02
+  },
+  "Masbate": {
+    "avg_yield": 0.31727272727272726,
+    "min_yield": -0.07,
+    "max_yield": 0.97,
+    "trend": 0.012727272727271158,
+    "recent_yield": 0.15
+  },
+  "NAIA": {
+    "avg_yield": 0.6318181818181818,
+    "min_yield": -0.01,
+    "max_yield": 1.12,
+    "trend": -0.018636363636369398,
+    "recent_yield": 0.29
+  },
+  "Port Area": {
+    "avg_yield": 0.5118181818181818,
+    "min_yield": -0.09,
+    "max_yield": 1.07,
+    "trend": -0.005727272727273187,
+    "recent_yield": 0.23
+  },
+  "Puerto Princesa": {
+    "avg_yield": 0.33272727272727276,
+    "min_yield": -0.23,
+    "max_yield": 0.76,
+    "trend": -0.019636363636368157,
+    "recent_yield": 0.64
+  },
+  "Romblon": {
+    "avg_yield": 0.31999999999999995,
+    "min_yield": -0.25,
+    "max_yield": 0.68,
+    "trend": -0.011636363636366583,
+    "recent_yield": 0.59
+  },
+  "Roxas City": {
+    "avg_yield": 0.4990909090909091,
+    "min_yield": -0.02,
+    "max_yield": 1.02,
+    "trend": -0.05354545454544825,
+    "recent_yield": -0.02
+  },
+  "San Jose": {
+    "avg_yield": 0.31999999999999995,
+    "min_yield": -0.12,
+    "max_yield": 0.75,
+    "trend": -0.013636363636365305,
+    "recent_yield": 0.72
+  },
+  "Sangley Point": {
+    "avg_yield": 0.4,
+    "min_yield": -0.05,
+    "max_yield": 0.82,
+    "trend": 0.013727272727277156,
+    "recent_yield": 0.64
+  },
+  "Science Garden": {
+    "avg_yield": 0.5363636363636363,
+    "min_yield": 0.05,
+    "max_yield": 0.87,
+    "trend": 0.005545454545457854,
+    "recent_yield": 0.45
+  },
+  "Sinait": {
+    "avg_yield": 0.4145454545454545,
+    "min_yield": -0.04,
+    "max_yield": 0.69,
+    "trend": -0.011636363636368174,
+    "recent_yield": 0.55
+  },
+  "Surigao": {
+    "avg_yield": 0.30636363636363634,
+    "min_yield": -0.31,
+    "max_yield": 0.64,
+    "trend": 0.0035454545454503186,
+    "recent_yield": 0.21
+  },
+  "Tacloban": {
+    "avg_yield": 0.3481818181818182,
+    "min_yield": -0.03,
+    "max_yield": 0.54,
+    "trend": 0.011090909090909448,
+    "recent_yield": 0.33
+  },
+  "Tanay": {
+    "avg_yield": 0.34272727272727277,
+    "min_yield": -0.01,
+    "max_yield": 0.58,
+    "trend": 0.018181818181820866,
+    "recent_yield": 0.58
+  },
+  "Tayabas": {
+    "avg_yield": 0.2090909090909091,
+    "min_yield": -0.31,
+    "max_yield": 1.07,
+    "trend": -0.009818181818168913,
+    "recent_yield": -0.02
+  },
+  "Tuguegarao": {
+    "avg_yield": 0.5036363636363635,
+    "min_yield": -0.09,
+    "max_yield": 1.03,
+    "trend": 0.032363636363635706,
+    "recent_yield": -0.09
+  },
+  "Virac Synop": {
+    "avg_yield": 0.44909090909090904,
+    "min_yield": -0.11,
+    "max_yield": 0.98,
+    "trend": -0.001272727272725895,
+    "recent_yield": 0.78
+  },
+  "Zamboanga": {
+    "avg_yield": 0.42999999999999994,
+    "min_yield": 0.11,
+    "max_yield": 0.95,
+    "trend": 0.02472727272727104,
+    "recent_yield": 0.59
+  }
+}

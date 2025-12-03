@@ -115,13 +115,9 @@ export default function AnalyticsScreen() {
           withDots: selectedRegions.length <= 4,
         };
       }),
-      legend: selectedRegions.map(id => {
-        const regionKey = id as keyof typeof t.regions;
-        const maxLabelLength = selectedRegions.length > 4 ? 8 : 12;
-        return abbreviateLabel(t.regions[regionKey], maxLabelLength);
-      }),
+      legend: [],  // Disable default legend to prevent overlap
     };
-  }, [selectedRegions, adminYieldData, adminMunicipalities, settings.enableSmoothingByDefault, t.regions, theme.primary, abbreviateLabel]);
+  }, [selectedRegions, adminYieldData, adminMunicipalities, settings.enableSmoothingByDefault, theme.primary]);
 
   return (
     <View style={[styles.container, { backgroundColor: theme.background }]}>
@@ -165,7 +161,7 @@ export default function AnalyticsScreen() {
                       return (
                         <View key={id} style={styles.legendItem}>
                           <View style={[styles.legendColor, { backgroundColor: region?.color }]} />
-                          <Text style={[styles.legendText, { color: theme.text }]}>
+                          <Text style={[styles.legendText, { color: theme.text }]} numberOfLines={1}>
                             {t.regions[id as keyof typeof t.regions]}
                           </Text>
                         </View>
@@ -174,43 +170,67 @@ export default function AnalyticsScreen() {
                   </View>
                 </View>
               ) : (
-                <LineChart
-                  data={chartData}
-                  width={Math.min(SCREEN_WIDTH - 64, isTablet ? 600 : 400)}
-                  height={isTablet ? 300 : 240}
-                  chartConfig={{
-                    backgroundColor: theme.card,
-                    backgroundGradientFrom: theme.card,
-                    backgroundGradientTo: theme.card,
-                    decimalPlaces: 1,
-                    color: (opacity = 1) => `rgba(76, 175, 80, ${opacity})`,
-                    labelColor: (opacity = 1) =>
-                      isDark
-                        ? `rgba(255, 255, 255, ${opacity})`
-                        : `rgba(0, 0, 0, ${opacity})`,
-                    style: {
-                      borderRadius: 16,
-                    },
-                    propsForDots: {
-                      r: isTablet ? '5' : '4',
-                      strokeWidth: '2',
-                    },
-                  }}
-                  bezier
-                  style={styles.chart}
-                  withInnerLines={false}
-                  withOuterLines={true}
-                  withVerticalLines={false}
-                  withHorizontalLines={true}
-                  segments={4}
-                />
+                <>
+                  <LineChart
+                    data={chartData}
+                    width={Math.min(SCREEN_WIDTH - 64, isTablet ? 600 : 400)}
+                    height={isTablet ? 300 : 240}
+                    chartConfig={{
+                      backgroundColor: theme.card,
+                      backgroundGradientFrom: theme.card,
+                      backgroundGradientTo: theme.card,
+                      decimalPlaces: 1,
+                      color: (opacity = 1) => `rgba(46, 125, 50, ${opacity})`,
+                      labelColor: (opacity = 1) =>
+                        isDark
+                          ? `rgba(255, 255, 255, ${opacity})`
+                          : `rgba(0, 0, 0, ${opacity})`,
+                      style: {
+                        borderRadius: 16,
+                      },
+                      propsForDots: {
+                        r: isTablet ? '5' : '4',
+                        strokeWidth: '2',
+                      },
+                    }}
+                    bezier
+                    style={styles.chart}
+                    withInnerLines={false}
+                    withOuterLines={true}
+                    withVerticalLines={false}
+                    withHorizontalLines={true}
+                    segments={4}
+                  />
+                  {/* Custom legend below chart */}
+                  <ScrollView 
+                    horizontal 
+                    showsHorizontalScrollIndicator={false}
+                    contentContainerStyle={styles.customLegendContainer}
+                    style={styles.customLegendScroll}
+                  >
+                    {selectedRegions.map(id => {
+                      const region = municipalities.find((r: any) => r.id === id);
+                      return (
+                        <View key={id} style={styles.customLegendItem}>
+                          <View style={[styles.customLegendDot, { backgroundColor: region?.color }]} />
+                          <Text 
+                            style={[styles.customLegendText, { color: theme.text }]}
+                            numberOfLines={1}
+                          >
+                            {t.regions[id as keyof typeof t.regions]}
+                          </Text>
+                        </View>
+                      );
+                    })}
+                  </ScrollView>
+                </>
               )}
             </View>
           ) : (
             <View style={[styles.emptyChart, { backgroundColor: theme.surface }]}>
               <BarChart3 size={48} color={theme.textSecondary} />
               <Text style={[styles.emptyChartText, { color: theme.textSecondary }]}>
-                {t.selectRegions}
+                {t.selectMunicipalities}
               </Text>
             </View>
           )}
@@ -228,11 +248,10 @@ export default function AnalyticsScreen() {
           <View style={styles.selectorHeader}>
             <View>
               <Text style={[styles.cardTitle, { color: theme.text }]}>
-                {t.selectRegions}
+                {t.selectMunicipalities}
               </Text>
               <Text style={[styles.subtitle, { color: theme.textSecondary }]}>
-              >
-                {t.selectUpTo} {settings.maxCompareMunicipalities} {t.regions_lower}
+                {t.selectUpTo} {settings.maxCompareMunicipalities} {t.municipalities_lower}
               </Text>
             </View>
             <View style={styles.bulkActions}>
@@ -258,27 +277,33 @@ export default function AnalyticsScreen() {
           </View>
 
           <View style={styles.regionList}>
-            {(adminMunicipalities || []).map((region: any) => {
-              const isSelected = selectedRegions.includes(region.id);
+            {(adminMunicipalities || []).map((municipality: any) => {
+              const isSelected = selectedRegions.includes(municipality.id);
               return (
                 <TouchableOpacity
-                  key={region.id}
+                  key={municipality.id}
                   style={[
                     styles.regionItem,
                     {
                       backgroundColor: theme.surface,
-                      borderColor: isSelected ? region.color : theme.border,
+                      borderColor: isSelected ? municipality.color : theme.border,
                       borderWidth: 2,
+                      shadowColor: '#000',
+                      shadowOffset: { width: 0, height: 2 },
+                      shadowOpacity: isSelected ? 0.1 : 0.05,
+                      shadowRadius: 4,
+                      elevation: isSelected ? 3 : 1,
+                      marginBottom: 8,
                     },
                   ]}
-                  onPress={() => toggleRegion(region.id)}
+                  onPress={() => toggleRegion(municipality.id)}
                   activeOpacity={0.7}
                 >
                   <View style={styles.regionItemContent}>
                     <View
                       style={[
                         styles.colorIndicator,
-                        { backgroundColor: region.color },
+                        { backgroundColor: municipality.color },
                       ]}
                     />
                     <Text
@@ -287,11 +312,11 @@ export default function AnalyticsScreen() {
                         { color: theme.text },
                       ]}
                     >
-                      {t.regions[region.id as keyof typeof t.regions]}
+                      {t.regions[municipality.id as keyof typeof t.regions]}
                     </Text>
                   </View>
                   {isSelected ? (
-                    <CheckSquare size={24} color={region.color} />
+                    <CheckSquare size={24} color={municipality.color} />
                   ) : (
                     <Square size={24} color={theme.border} />
                   )}
@@ -425,19 +450,21 @@ const styles = StyleSheet.create({
   legendContainer: {
     marginTop: 16,
     gap: 12,
+    flexDirection: 'column',
   },
   legendItem: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 8,
+    gap: 12,
   },
   legendColor: {
-    width: 24,
-    height: 4,
-    borderRadius: 2,
+    width: 32,
+    height: 8,
+    borderRadius: 4,
   },
   legendText: {
     fontSize: 14,
+    flex: 1,
   },
   loadingContainer: {
     padding: 48,
@@ -450,5 +477,34 @@ const styles = StyleSheet.create({
     fontSize: 16,
     textAlign: 'center' as const,
     marginTop: 12,
+  },
+  customLegendScroll: {
+    marginTop: 16,
+    maxHeight: 100,
+  },
+  customLegendContainer: {
+    flexDirection: 'row',
+    gap: 12,
+    paddingHorizontal: 8,
+    paddingVertical: 8,
+  },
+  customLegendItem: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+    paddingHorizontal: 12,
+    paddingVertical: 8,
+    backgroundColor: 'rgba(128, 128, 128, 0.1)',
+    borderRadius: 16,
+  },
+  customLegendDot: {
+    width: 12,
+    height: 12,
+    borderRadius: 6,
+  },
+  customLegendText: {
+    fontSize: 13,
+    fontWeight: '600' as const,
+    maxWidth: 120,
   },
 });

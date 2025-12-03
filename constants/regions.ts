@@ -65,63 +65,63 @@ export interface Municipality {
 }
 
 export const municipalities: Municipality[] = [
-  { id: 'abucay', color: '#2E7D32' },
-  { id: 'alabat', color: '#1976D2' },
-  { id: 'ambulong', color: '#F57C00' },
-  { id: 'aparri', color: '#C2185B' },
-  { id: 'baguio', color: '#7B1FA2' },
-  { id: 'baler_radar', color: '#00796B' },
-  { id: 'basco_radar', color: '#5D4037' },
-  { id: 'borongan', color: '#455A64' },
-  { id: 'butuan', color: '#E64A19' },
-  { id: 'clsu', color: '#0097A7' },
-  { id: 'cabanatuan', color: '#388E3C' },
-  { id: 'calapan', color: '#6A1B9A' },
-  { id: 'calayan', color: '#AFB42B' },
-  { id: 'casiguran', color: '#F57C00' },
-  { id: 'catarman', color: '#C2185B' },
-  { id: 'catbalogan', color: '#7B1FA2' },
-  { id: 'clark', color: '#00796B' },
-  { id: 'coron', color: '#5D4037' },
-  { id: 'cotabato', color: '#455A64' },
-  { id: 'cubi_point', color: '#E64A19' },
-  { id: 'cuyo', color: '#0097A7' },
-  { id: 'daet', color: '#388E3C' },
-  { id: 'dagupan', color: '#6A1B9A' },
-  { id: 'dauis', color: '#AFB42B' },
-  { id: 'davao_city', color: '#F57C00' },
-  { id: 'dipolog', color: '#C2185B' },
-  { id: 'dumaguete', color: '#7B1FA2' },
-  { id: 'el_salvador', color: '#00796B' },
-  { id: 'general_santos', color: '#5D4037' },
-  { id: 'guiuan', color: '#455A64' },
-  { id: 'hinatuan', color: '#E64A19' },
-  { id: 'iba', color: '#0097A7' },
-  { id: 'infanta', color: '#388E3C' },
-  { id: 'itbayat', color: '#6A1B9A' },
-  { id: 'juban', color: '#AFB42B' },
-  { id: 'laoag', color: '#F57C00' },
-  { id: 'legazpi', color: '#C2185B' },
-  { id: 'maasin', color: '#7B1FA2' },
-  { id: 'mactan', color: '#00796B' },
-  { id: 'malaybalay', color: '#5D4037' },
-  { id: 'masbate', color: '#455A64' },
-  { id: 'naia', color: '#E64A19' },
-  { id: 'port_area', color: '#0097A7' },
-  { id: 'puerto_prinsesa', color: '#388E3C' },
-  { id: 'romblon', color: '#6A1B9A' },
-  { id: 'roxas_city', color: '#AFB42B' },
-  { id: 'san_jose', color: '#F57C00' },
-  { id: 'sangley_point', color: '#C2185B' },
-  { id: 'science_garden', color: '#7B1FA2' },
-  { id: 'sinait', color: '#00796B' },
-  { id: 'surigao', color: '#5D4037' },
-  { id: 'tacloban', color: '#455A64' },
-  { id: 'tanay', color: '#E64A19' },
-  { id: 'tayabas', color: '#0097A7' },
-  { id: 'tuguegarao', color: '#388E3C' },
-  { id: 'virac_synop', color: '#6A1B9A' },
-  { id: 'zamboanga', color: '#AFB42B' },
+  { id: 'abucay', color: '#2E7D32' },        // Green
+  { id: 'alabat', color: '#1976D2' },       // Blue
+  { id: 'ambulong', color: '#D32F2F' },     // Red
+  { id: 'aparri', color: '#F57C00' },       // Orange
+  { id: 'baguio', color: '#7B1FA2' },       // Purple
+  { id: 'baler_radar', color: '#0097A7' },  // Cyan
+  { id: 'basco_radar', color: '#C2185B' },  // Pink
+  { id: 'borongan', color: '#AFB42B' },     // Lime
+  { id: 'butuan', color: '#5D4037' },       // Brown
+  { id: 'clsu', color: '#00897B' },         // Teal
+  { id: 'cabanatuan', color: '#E64A19' },   // Deep Orange
+  { id: 'calapan', color: '#303F9F' },      // Indigo
+  { id: 'calayan', color: '#388E3C' },      // Light Green
+  { id: 'casiguran', color: '#FBC02D' },    // Yellow
+  { id: 'catarman', color: '#512DA8' },     // Deep Purple
+  { id: 'catbalogan', color: '#0288D1' },   // Light Blue
+  { id: 'clark', color: '#689F38' },        // Light Green 2
+  { id: 'coron', color: '#F06292' },        // Light Pink
+  { id: 'cotabato', color: '#00ACC1' },     // Cyan 2
+  { id: 'cubi_point', color: '#8E24AA' },   // Purple 2
+  { id: 'cuyo', color: '#FF6F00' },         // Amber
+  { id: 'daet', color: '#C62828' },         // Red 2
+  { id: 'dagupan', color: '#1565C0' },      // Blue 2
+  { id: 'dauis', color: '#2E7D32' },        // Green
+  { id: 'davao_city', color: '#6A1B9A' },   // Purple 3
+  { id: 'dipolog', color: '#EF6C00' },      // Orange 2
+  { id: 'dumaguete', color: '#00838F' },    // Cyan 3
+  { id: 'el_salvador', color: '#AD1457' },  // Pink 2
+  { id: 'general_santos', color: '#558B2F' },// Green 2
+  { id: 'guiuan', color: '#4E342E' },       // Brown 2
+  { id: 'hinatuan', color: '#00695C' },     // Teal 2
+  { id: 'iba', color: '#D84315' },          // Deep Orange 2
+  { id: 'infanta', color: '#283593' },      // Indigo 2
+  { id: 'itbayat', color: '#F9A825' },      // Yellow 2
+  { id: 'juban', color: '#4527A0' },        // Deep Purple 2
+  { id: 'laoag', color: '#0277BD' },        // Light Blue 2
+  { id: 'legazpi', color: '#7CB342' },      // Light Green 3
+  { id: 'maasin', color: '#EC407A' },       // Pink 3
+  { id: 'mactan', color: '#00BCD4' },       // Cyan 4
+  { id: 'malaybalay', color: '#AB47BC' },   // Purple 4
+  { id: 'masbate', color: '#FF8F00' },      // Amber 2
+  { id: 'naia', color: '#E53935' },         // Red 3
+  { id: 'port_area', color: '#1E88E5' },    // Blue 3
+  { id: 'puerto_prinsesa', color: '#43A047' },// Green 3
+  { id: 'romblon', color: '#8E24AA' },      // Purple 5
+  { id: 'roxas_city', color: '#FB8C00' },   // Orange 3
+  { id: 'san_jose', color: '#00ACC1' },     // Cyan 5
+  { id: 'sangley_point', color: '#D81B60' },// Pink 4
+  { id: 'science_garden', color: '#9E9D24' },// Lime 2
+  { id: 'sinait', color: '#6D4C41' },       // Brown 3
+  { id: 'surigao', color: '#00897B' },      // Teal 3
+  { id: 'tacloban', color: '#F4511E' },     // Deep Orange 3
+  { id: 'tanay', color: '#3949AB' },        // Indigo 3
+  { id: 'tayabas', color: '#66BB6A' },      // Light Green 4
+  { id: 'tuguegarao', color: '#FDD835' },   // Yellow 3
+  { id: 'virac_synop', color: '#5E35B1' },  // Deep Purple 3
+  { id: 'zamboanga', color: '#039BE5' },    // Light Blue 3
 ];
 
 export interface YieldData {
